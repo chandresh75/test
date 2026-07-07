@@ -1,0 +1,18 @@
+{
+  "git": {
+    "owner": "chandresh75",
+    "repo": "test",
+    "branch": "main"
+  },
+  "backups": [
+    {
+      "name": "billing-pwa-backup-2026-07-07.zip",
+      "filePath": "billing-pwa/backups/data/billing-pwa-backup-2026-07-07.zip",
+      "createdAt": "2026-07-07T06:44:25.772Z"
+    }
+  ],
+  "name": "backup-index",
+  "createdAt": "2026-07-07T06:44:31.958Z",
+  "_kind": "browser-payload",
+  "_savedAt": "2026-07-07T06:44:31.965Z"
+}
