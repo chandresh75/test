@@ -1,0 +1,18 @@
+{
+  "git": {
+    "owner": "chandresh75",
+    "repo": "test",
+    "branch": "main"
+  },
+  "indexKind": "medlab-os-backup-index",
+  "updatedAt": "2026-07-08T11:33:56.466Z",
+  "backups": [
+    {
+      "name": "MedLab_Backup_2026-07-08T11-33-53-993Z.zip",
+      "path": "medlab-os/backups/data/MedLab_Backup_2026-07-08T11-33-53-993Z.json",
+      "createdAt": "2026-07-08T11:33:53.993Z"
+    }
+  ],
+  "_kind": "browser-payload",
+  "_savedAt": "2026-07-08T11:33:56.471Z"
+}
